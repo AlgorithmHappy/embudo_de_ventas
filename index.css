@@ -1,0 +1,182 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+html{
+    background-color: black;
+}
+
+body{
+    margin: 1px auto;
+    width: 85vw;
+    
+}
+
+header{
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    padding: 1em 0em 1em 0em;
+    font-weight: bold;
+    font-size: x-large;
+    display: block;
+}
+
+#primera{
+    display: block;
+    padding: 1.5em 0em 1.5em 0em;
+    text-align: center;
+    color: white;
+}
+
+#primera span {
+    color: yellow;
+}
+
+hr{
+    border-color: yellow;
+    border-width: 0.1em;
+    border-style: solid;
+}
+
+#segunda{
+    display: block;
+    padding: 1.5em 0em 1.5em 0em;
+    text-align: center;
+}
+
+#segunda h4{
+    color: white;
+}
+
+#segunda span{
+    color: yellow;
+}
+
+#segunda video{
+    width: 100%;
+}
+
+#tercera h2{
+    color: yellow;
+    text-align: center;
+}
+
+input, button{
+    display: block;
+    padding: 1em;
+    width: 100%;
+    margin: 0.5em auto;
+}
+
+input[type=text], input[type=email]{
+    font-size: larger;
+    color: gray;
+}
+
+button{
+    font-size: larger;
+    color: gray;
+    padding: 1.2em;
+    background-color: yellow;
+}
+
+#in_nombre{
+    margin-top: 0em;
+}
+
+#tercera p{
+    color: white;
+    text-align: center;
+}
+
+#tercera span{
+    color: yellow;
+}
+
+#cuarto{
+    display: block;
+    width: 100%;
+    margin: 1em auto;
+    color: white;
+    text-align: center;
+}
+
+.quinto{
+    display: block;
+    padding: 1em;
+    background-color: yellow;
+    border-radius: 1em;
+    margin: 0.5em 0.5em 0.5em 0.5em;
+    text-align: center;
+}
+
+.quinto div{
+    display: block;
+}
+
+.quinto .quinto-dos{
+    background-color: #333;
+    padding: 1em;
+    margin: 0.5em 0em 0.5em 0em;
+    color: white;
+    font-weight: bolder;
+    font-size: large;
+}
+
+#sexto{
+    color: yellow;
+    text-align: center;
+}
+
+#septimo{
+    text-align: center;
+    color: white;
+}
+
+#octavo{
+    text-align: center;
+}
+
+#octavo a{
+    display: block;
+    text-decoration: none;
+    color: yellow;
+    font-weight: bold;
+}
+
+#noveno{
+    color: white;
+}
+
+#decimo{
+    color:white;
+    display: block;
+    text-align: center;
+}
+
+#onceavo{
+    color: yellow;
+    text-align: center;
+}
+
+#doceavo p{
+    color: white;
+    text-align: center;
+}
+
+#treceavo{
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+footer{
+    color: #444;
+    text-align: center;
+}
+
+

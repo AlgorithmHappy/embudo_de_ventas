@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+html{
+    background-color: black;
+}
+
+body{
+    margin: 1px auto;
+    width: 85vw;
+}
+
+#segunda{
+    float: left;
+    width: 50%;
+}
+
+#segunda div{
+    width: 90%;
+}
+
+#tercera{
+    margin-top: 5em;
+    float: right;
+    width: 50%;
+}
+
+#cuarto{
+    width: 100%;
+    clear: both;
+    display: inline-block;
+}
+
+.quinto{
+    float: left;
+    width: 31%;
+}
+
+#sexto, #septimo{
+    clear: both;
+    display: block;
+}
+
+#octavo{
+    float: left;
+    padding-right: 2em;
+}
+
+#decimo{
+    display: block;
+    clear: both;
+}
+
+button{
+    background-color: yellow;
+}
